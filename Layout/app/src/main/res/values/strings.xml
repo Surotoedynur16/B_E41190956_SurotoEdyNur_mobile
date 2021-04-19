@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tugas1_Mobile</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+
+    <string name="btn_scan_qr">1</string>
+    <string name="_1" >1</string>
+    <string name="linear_layout">Linear Layout</string>
+    <string name="_2" >2</string>
+    <string name="relative_layout">Relative Layout</string>
+    <string name="_3" >3</string>
+    <string name="constraint_layout">Constraint Layout</string>
+    <string name="_4" >4</string>
+    <string name="frame_layout">Frame Layout</string>
+    <string name="_5" >5</string>
+    <string name="table_layout" >Table Layout</string>
+    <string name="_6" >6</string>
+    <string name="material_design" >Material Design</string>
+    <string name="_7" >7</string>
+    <string name="scroll_view" >Scroll View</string>
+    <string name="_8" >8</string>
+    <string name="scroll_view_horizontal" >Scroll View Horizontal</string>
+
+    <string-array name="spinner_dates">
+        <item>Wed, June 27 2012</item>
+    </string-array>
+
+    <string-array name="spinner_jam">
+        <item>08:00am</item>
+    </string-array>
+</resources>
